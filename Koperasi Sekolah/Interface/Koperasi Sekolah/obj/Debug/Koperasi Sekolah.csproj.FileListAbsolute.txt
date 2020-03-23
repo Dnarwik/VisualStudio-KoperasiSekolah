@@ -1,0 +1,16 @@
+c:\users\acer\documents\visual studio 2015\Projects\Koperasi Sekolah\Koperasi Sekolah\bin\Debug\Koperasi Sekolah.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\Koperasi Sekolah\Koperasi Sekolah\obj\Debug\RPL.Form1.resources
+c:\users\acer\documents\visual studio 2015\Projects\Koperasi Sekolah\Koperasi Sekolah\obj\Debug\RPL.FormPeringatan.resources
+c:\users\acer\documents\visual studio 2015\Projects\Koperasi Sekolah\Koperasi Sekolah\obj\Debug\RPL.FormPetugas.resources
+c:\users\acer\documents\visual studio 2015\Projects\Koperasi Sekolah\Koperasi Sekolah\obj\Debug\RPL.FormPetugasPemesanan.resources
+c:\users\acer\documents\visual studio 2015\Projects\Koperasi Sekolah\Koperasi Sekolah\obj\Debug\RPL.FormSiswa.resources
+c:\users\acer\documents\visual studio 2015\Projects\Koperasi Sekolah\Koperasi Sekolah\obj\Debug\RPL.FormSiswaPemesanan.resources
+c:\users\acer\documents\visual studio 2015\Projects\Koperasi Sekolah\Koperasi Sekolah\obj\Debug\Koperasi_Sekolah.Properties.Resources.resources
+c:\users\acer\documents\visual studio 2015\Projects\Koperasi Sekolah\Koperasi Sekolah\obj\Debug\Koperasi Sekolah.csproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2015\Projects\Koperasi Sekolah\Koperasi Sekolah\bin\Debug\Koperasi Sekolah.exe
+c:\users\acer\documents\visual studio 2015\Projects\Koperasi Sekolah\Koperasi Sekolah\bin\Debug\Koperasi Sekolah.pdb
+c:\users\acer\documents\visual studio 2015\Projects\Koperasi Sekolah\Koperasi Sekolah\bin\Debug\MySql.Data.dll
+c:\users\acer\documents\visual studio 2015\Projects\Koperasi Sekolah\Koperasi Sekolah\bin\Debug\Google.Protobuf.dll
+c:\users\acer\documents\visual studio 2015\Projects\Koperasi Sekolah\Koperasi Sekolah\bin\Debug\MySql.Data.xml
+c:\users\acer\documents\visual studio 2015\Projects\Koperasi Sekolah\Koperasi Sekolah\obj\Debug\Koperasi Sekolah.exe
+c:\users\acer\documents\visual studio 2015\Projects\Koperasi Sekolah\Koperasi Sekolah\obj\Debug\Koperasi Sekolah.pdb
